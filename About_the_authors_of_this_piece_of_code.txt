@@ -1,8 +1,0 @@
-Thanks to the Great People of the SciPy Web Site [https://scipython.com/ "Learning Scientific Programming with Python"]. 
-In the Book section, chapter 8: "SciPy", they provide in the example #3 a short explanation of the Bessel Functions.
-There you can fin the same code provided in this folder.
-
-Again, all rights regarding the source and authorship of this piece of code are reserved for the people of the SciPy Web Site.
-
-Simón S. & Daniela A.
-:)
